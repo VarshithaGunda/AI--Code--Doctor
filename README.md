@@ -55,7 +55,7 @@ AI-Code-Doctor/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ashrithadevikondepudi-design/AI--Code--Doctor.git
+git clone https://github.com/varshithagunda-design/AI--Code--Doctor.git
 cd AI--Code--Doctor
 ```
 
