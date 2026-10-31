@@ -96,9 +96,9 @@ Never upload API keys, passwords, or `.env` files to GitHub. Keep secrets in env
 
 ## 👩‍💻 Author
 
-**Ashritha**
+**Varshitha**
 
-GitHub: [@ashrithadevikondepudi-design](https://github.com/ashrithadevikondepudi-design)
+GitHub: [@varshithagunda-design](https://github.com/varshithagunda-design)
 
 ---
 
